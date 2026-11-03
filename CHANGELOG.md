@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.1
+
+Every node now has an Inspector description. No pin, field or template changed.
+
 ## 0.1.0
 
 First release: the 15 inventory contract nodes of the Core Pack, all `inventory/<Kind>@1` (contract `InventoryMenu`, category Inventory). Pins, fields and templates are the Core Pack's; only the id differs.
